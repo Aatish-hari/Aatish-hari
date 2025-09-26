@@ -1,7 +1,2 @@
-## Hi there👋
+## Hi there👋 ![Alt text](https://media.tenor.com/nW_yTOndgdcAAAAm/heart-cat.webp)
 
-<!--
-**Aatish-hari/Aatish-hari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-🌱 Currently learning the basics (C, Linux, architecture, networking, OS stuff...) 
--->
