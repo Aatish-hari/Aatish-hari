@@ -1,5 +1,5 @@
 ## Hi there👋
-I love exploring Computer Networking, all internet stuff you know,
+I am exploring Computer Networking,
 
 beside that I like to explore:
 
