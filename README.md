@@ -1,7 +1,6 @@
 ## Hi there👋
-I am exploring Computer Networking,
 
-beside that I like to explore:
+I like to explore
 
 how computers really work under the hood.  
 I don’t know everything yet (who does?), but I’ve been diving into **low-level programming**  
