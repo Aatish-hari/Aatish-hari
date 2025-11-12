@@ -8,4 +8,3 @@ I don’t know everything yet (who does?), but I’ve been diving into **low-lev
 
 ⚙️I mainly use in C, C++
 
-Occasionally talks to the kernel. Mostly ignored 😅
